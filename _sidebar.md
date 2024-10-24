@@ -1,2 +1,3 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Home](README)
+- [Zero Trust](zeroTrust)
+- [Azure Landing Zone](azLandingZone)
