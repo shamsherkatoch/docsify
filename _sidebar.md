@@ -1,3 +1,3 @@
 - [Home](/)
-- [Zero Trust](zero-trust)
-- [Azure Landing Zone](landing-zone)
+- [Zero Trust](zero-trust.md)
+- [Azure Landing Zone](landing-zone.md)
